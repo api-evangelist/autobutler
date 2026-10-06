@@ -35,7 +35,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Consumer
@@ -45,6 +45,10 @@ tags:
 - Price Comparison
 - Denmark
 common:
+- url: https://www.autobutler.dk/blog
+  type: Blog
+- url: https://www.autobutler.dk/blog.atom
+  type: BlogRSS
 - type: DomainSecurity
   url: security/autobutler-domain-security.yml
 - type: Website
